@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Bypass DNU E-Learning Helper",
+  "version": "1.0",
+  "description": "Công cụ hỗ trợ hoàn thành bài học trên hệ thống e-learning Đại học Đại Nam",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Bypass DNU E-Learning",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["content.js"],
+      "matches": ["*://*.dainam.edu.vn/*", "*://elearning.dainam.edu.vn/*"]
+    }
+  ]
+}
