@@ -149,24 +149,6 @@
 
 ---
 
-## ⚡ **Demo nhanh**
-
-### **🎬 Video Demo**
-```
-🎥 [Xem video demo trên YouTube](https://youtu.be/demo-video)
-```
-
-### **📸 Screenshots**
-
-| Tính năng | Hình ảnh |
-|-----------|----------|
-| **Loading Animation** | ![Loading](https://via.placeholder.com/400x250/4285F4/FFFFFF?text=Loading+Animation) |
-| **Manual Guide** | ![Guide](https://via.placeholder.com/400x250/FE8441/FFFFFF?text=Manual+Guide) |
-| **GUI Panel** | ![Panel](https://via.placeholder.com/400x250/34A853/FFFFFF?text=GUI+Panel) |
-| **Success Status** | ![Success](https://via.placeholder.com/400x250/4CAF50/FFFFFF?text=Success+Status) |
-
----
-
 ## 🔧 **Phát triển**
 
 ### **🏗️ Cấu trúc dự án**
